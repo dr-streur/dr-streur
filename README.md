@@ -7,10 +7,10 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on coding & development skills.
 - 🌱 I’m currently learning Kotlin & Android 11.
-- 👯 I’m looking to collaborate on anything?
-- 🤔 I’m looking for help with 
+- 👯 I’m looking to collaborate on actuarial analysis. 
+- 🤔 I’m looking for help with Ruby. 
 - 💬 Ask me about being a pricing actuary at Mass General Brigham. 
 - 📫 How to reach me: https://www.linkedin.com/in/dr-streur/
 - 😄 Pronouns: he him his
-- ⚡ Fun fact: legendary latte maker to Demi Moore & Emma Watson
+- ⚡ Fun fact: I'm a legendary latte maker for Demi Moore & Emma Watson
 -->
