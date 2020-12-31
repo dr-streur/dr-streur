@@ -1,10 +1,13 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on coding & development skills.
-- 🌱 I’m currently learning Kotlin & Android 11.
-- 👯 I’m looking to collaborate on actuarial analysis. 
-- 🤔 I’m looking for help with web development. 
-- 💬 Ask me about being a pricing actuary at Mass General Brigham. 
-- 📫 How to reach me: devin@dstreur.dev
-- 😄 Pronouns: he him his
-- ⚡ Fun fact: I'm a legendary latte maker for Demi Moore & Emma Watson
+- 🔭 I’m an actuary & consultant from Milwaukee, WI. I've lived in Rhode Island, Massachusetts, and now Georgia.
+
+- ⚡ I’m currently learning Ruby & all about web development. In February 2021, I'm starting an Executive MBA program at Quantic School of Business and Technology.
+
+- ⚡ Pronouns: he/him/his
+
+- ⚡ Fun fact: I made beverages for Ashton Kutcher, Demi Moore, and Emma Watson at Starbucks
+
+- 📫 devin.streur@gmail.com
+- 📞 +1 351 201 0217
+- 🌍 https://dstreur.dev
